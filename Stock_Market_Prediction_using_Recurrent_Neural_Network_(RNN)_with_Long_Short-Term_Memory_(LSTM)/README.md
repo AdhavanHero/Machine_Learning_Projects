@@ -1,4 +1,4 @@
-# 📈 Titan Stock Market Prediction using LSTM
+# 📈 Stock Market Prediction using RNN with LSTM
 
 An end-to-end Deep Learning project that predicts the closing stock price of Titan Company Ltd. (NSE: TITAN) using historical market data and a Stacked Long Short-Term Memory (LSTM) neural network.
 

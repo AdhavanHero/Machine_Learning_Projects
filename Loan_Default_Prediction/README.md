@@ -37,6 +37,5 @@ The dataset contains financial and demographic records for over 250,000 loans.
 
 ## How to Run
 1. Clone the repository.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook: `jupyter notebook "Loan Default Prediction (3).ipynb"`.
-4. Ensure the `Loan_default.csv` file is in the correct path referenced in the notebook.
+2. Open the Jupyter Notebook: `jupyter notebook "Loan Default Prediction.ipynb"`.
+3. Ensure the `Loan_default.csv` file is in the correct path referenced in the notebook.
